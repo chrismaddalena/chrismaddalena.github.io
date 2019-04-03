@@ -25,6 +25,7 @@ description: A place for blogging and scripting
 navbar-links:
   About Me: "aboutme"
   Projects:
+  	- Highlights: "project_overview"
     - ODIN: "https://github.com/chrismaddalena/ODIN"
     - GhostManager: "https://github.com/GhostManager"
     - Goreport: "https://github.com/chrismaddalena/Goreport"
