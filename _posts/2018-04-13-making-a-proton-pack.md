@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Developer’s Toolkit
-subtitle: Understanding Attacker Tools and How to Use Them in Your Dev Environment
+title: Making a Proton Pack
+subtitle: An Adventure in Constructing a Ghostbusters Proton Pack
 image: /img/proton_pack/GhostTrap.jpg
 tags: [projects, props]
 ---
@@ -12,7 +12,7 @@ I recently completed my Ghostbusters ghost trap and decided to begin tackling a 
 
 **Warning!** This is a verbose write-up that walks through everything I thought and did. It was written over multiple days as I actually did each step. Hopefully it helps someone and/or is fun, but don't be afraid to skim :)
 
-[toc]
+{:toc}
 
 # Making Plans
 
@@ -138,7 +138,7 @@ While reviewing other proton packs -- and numerous other 3D printed models and p
 
 The finishing work is not as daunting as it seems. If you search around for articles on finishing PLA, you find a lot of mediocre advice about sanding, a lot of sanding. Bill Doran has an excellent video that covers the sanding and filling process I typically use for 3D prints:
 
-https://youtu.be/it4TtlCp3I4
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it4TtlCp3I4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I use Bondo spot putty on my prints. A 16oz tube cost me $20 on Amazon a while back and this pack build finally made a dent in it. I have about half a tube, ~8oz, left and I used it liberally on this pack, the ghost trap, and a few other small models. A little goes a long way, so these tubes last a while. You just need to take a little bit and spread a very thin layer across the print surfaces. This is really easy on flat areas. For small areas, you can use a little spudger, X-Acto knife, or some other make shift mini putty knife. I use the spudger and opening tools that iFixIt and other companies offer for opening electronics like phones. They have small points and skinny and narrow flat edges that work well for getting Bondo into tight areas.
 
@@ -186,7 +186,7 @@ I utilized an old trick involving multiple coats of paint to achieve a weatherin
 
 For this next part, you can use toothpaste or even mustard. I have used mustard before to great effect, but a tip from Bill Doran of Punished Props introduced me to this latex masking fluid, available on Amazon for $11. I painted it on wherever I wanted the black paint to peel away. The Ion Arm top is pictured here with the masking fluid liberally spread around it. This piece is really banged up in reference photos, so I went nuts with it. Once dried, it temporarily sticks to the part. When I was ready, I scrub at the masking fluid with an old toothbrush and my fingers to peel and rub away the rubber for an amazing weathering effect.
 
-https://youtu.be/20QGApYAjxQ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/20QGApYAjxQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Note:** In the above close-up shot, you can really see the texture of the piece. On one hand, it looks like metal, but that texture doesn't sell it as machined metal. I would have had to sand the last coat of primer more for a smoother finish. The truth is... I forgot. I had to leave my work in progress and forgot I was about to sand the pieces. I came back to my shop and started masking. Oops! Fortunately, it doesn't really matter for the proton pack. I want texture appearing on the flat black paint and the metallic finish is only meant to peak through. Just remember it's important to keep sanding as much as you can stand if you really want/need a machined metal finish. This was important to remember when I finished my gun hook and a few other pieces that would not be black.
 
