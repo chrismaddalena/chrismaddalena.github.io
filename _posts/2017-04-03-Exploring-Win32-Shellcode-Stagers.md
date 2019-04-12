@@ -9,14 +9,14 @@ I recently challenged myself to manually write a Windows shellcode stager that c
 
 There are some resources available for someone looking to write a stager. The first and foremost is Skape’s whitepaper, Understanding Win32 Shellcode. Beyond that, there are a few articles you can find online with little snippets and insights into bits and pieces. The best source after Skape’s paper is MSDN and the pages for the functions used in a Windows stager:
 
-* WSAStartUp: https://msdn.microsoft.com/en-us/library/windows/desktop/ms742213(v=vs.85).aspx
-* WSASocketA: https://msdn.microsoft.com/en-us/library/windows/desktop/ms742212(v=vs.85).aspx
-* recv: https://msdn.microsoft.com/en-us/library/windows/desktop/ms740121(v=vs.85).aspx
-* connect: https://msdn.microsoft.com/en-us/library/windows/desktop/ms737625(v=vs.85).aspx
-* bind: https://msdn.microsoft.com/en-us/library/windows/desktop/ms737550(v=vs.85).aspx
-* listen: https://msdn.microsoft.com/en-us/library/windows/desktop/ms739168(v=vs.85).aspx
-* WSAGetLastError: https://msdn.microsoft.com/en-us/library/windows/desktop/ms741580(v=vs.85).aspx
-* Windows Socket Error Codes: https://msdn.microsoft.com/en-us/library/windows/desktop/ms740668(v=vs.85).aspx
+* [WSAStartUp](https://msdn.microsoft.com/en-us/library/windows/desktop/ms742213(v=vs.85).aspx)
+* [WSASocketA](https://msdn.microsoft.com/en-us/library/windows/desktop/ms742212(v=vs.85).aspx)
+* [recv](https://msdn.microsoft.com/en-us/library/windows/desktop/ms740121(v=vs.85).aspx)
+* [connect](https://msdn.microsoft.com/en-us/library/windows/desktop/ms737625(v=vs.85).aspx)
+* [bind](https://msdn.microsoft.com/en-us/library/windows/desktop/ms737550(v=vs.85).aspx)
+* [listen](https://msdn.microsoft.com/en-us/library/windows/desktop/ms739168(v=vs.85).aspx)
+* [WSAGetLastError](https://msdn.microsoft.com/en-us/library/windows/desktop/ms741580(v=vs.85).aspx)
+* [Windows Socket Error Codes](https://msdn.microsoft.com/en-us/library/windows/desktop/ms740668(v=vs.85).aspx)
 
 I also recommend reviewing Fuzzy Security’s tutorials, especially #6 on Win32 shellcoding. Fuzzy Sec does a great job covering the ins and outs of some of the basics, like how to push function arguments to the stack. The tutorials, but especially #6, are excellent resources for anyone getting started with Win32 shellcode and exploit development.
 
