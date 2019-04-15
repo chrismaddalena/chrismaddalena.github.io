@@ -2,7 +2,7 @@
 layout: post
 title: Case Study - Password Analysis with BloodHound
 subtitle: Sniffing out password reuse
-image: /img/misc/bloodhound.png
+image: /img/misc/BloodHound.png
 tags: [python, bloodhound]
 ---
 
