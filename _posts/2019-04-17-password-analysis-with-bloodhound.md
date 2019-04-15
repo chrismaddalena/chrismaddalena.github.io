@@ -304,7 +304,7 @@ Andy Robbins (@_wald0) has a pair of articles from 2018 that offer a good primer
 * [Introducing Adversary Resilience Methodology: Part 1](https://posts.specterops.io/introducing-the-adversary-resilience-methodology-part-one-e38e06ffd604)
 * [Introducing Adversary Resilience Methodology: Part 2](https://posts.specterops.io/introducing-the-adversary-resilience-methodology-part-two-279a1ed7863d)
 
-Andy ([@_wald0](https://twitter.com/_wald0)) and Rohan Vazarkar ([@cptjesus](https://twitter.com/cptjesus) also recently presented an excellent talk on this topic at TROOPERSCon 2019:
+Andy ([@_wald0](https://twitter.com/_wald0)) and Rohan Vazarkar ([@cptjesus](https://twitter.com/cptjesus)) also recently presented an excellent talk on this topic at TROOPERSCon 2019:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0r8FzbOg2YU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
